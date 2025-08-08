@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889799100395",
+    "project_id": "geminifirebaseai",
+    "storage_bucket": "geminifirebaseai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889799100395:android:9e96cb38f854c587cebbae",
+        "android_client_info": {
+          "package_name": "com.example.geminifirebaseai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZdQEsU3HjzAZ-Zn6eJYwbnqxEN2Fz7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
